@@ -1,0 +1,102 @@
+.button {
+    height: 400px;
+    width: 500px;
+    background-color: #2E294E;
+    transform: skew(-20deg);
+    background: #ecf65efa;
+    display:inline-block;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    
+    
+  }
+
+  h1, h2 {
+    text-align: center;
+background: #8a80d1;
+
+
+  }
+
+  table, th, td {
+    
+    background-color: #ecf65efa;
+    border:1px solid black;
+    height: 50px;
+    width: 450px;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+  }
+
+  html {
+    width:100%;
+    overflow: auto;
+    float: left
+  }
+
+  body {
+    background-color: lightblue;
+    
+    }
+
+ 
+
+    a:link {
+      text-decoration: none;
+        
+      color:  purple;
+    }
+    a:hover {
+      background: #a08651;
+    }
+
+
+
+    .tableTitle {
+      text-decoration: underline;
+      font-size: x-large;
+    }
+
+    .videoTitle {
+    text-decoration: underline;
+    margin-top: 140px;
+    margin-right: 470px;
+    font-size: x-large;
+    float: right;
+    }
+
+    iframe {
+      margin-top: 110px;
+      float: right;
+      margin-right: -450px;
+    }
+
+    .wholeTable {
+      margin-left: 150px; 
+      margin-top: 125px; 
+      float: left;
+    
+    }
+
+  .change {
+    font-size: x-large;
+    float: left;
+    margin-left: 30%;
+    color: darkblue;
+  }
+
+  .change2 {
+    font-size: x-large;
+    float: left;
+    margin-left: 20%;
+    color: darkblue;
+  }
+
+
+  .wayBack {
+    float: left;
+  }
